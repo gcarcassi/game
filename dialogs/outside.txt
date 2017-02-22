@@ -1,0 +1,97 @@
+
+
+Cedric (boy politician)
+Pandora (girl thief)
+Nightshade (old mage)
+
+C: This should be the place...
+P: Where? Behind this mountain?
+C: No, the map says here... there should be
+P: Give me that
+C: No, wait!
+P: What is this? It seems drawn by a 3-year-old!
+C: It's by captain Bluebeard... see, it's written in blood!
+P: Blood? (sniff) It smells like tomato...
+C: It's an authentic...
+P: Yeah, authentic all right... an authentic piece of garbage! Where did you get this again?
+C: The guy who sold it me..
+  <every wrong dialog goes back here>
+P: Ah, whatever... I am out of here. This was a waste of time.
+C: No, wait!
+
+Dialog begins
+
+Tell an embarassing story about her to someone she likes
+
+1
+C: If you go, I'll tell <xxx>
+P: Tell him what?
+
+1.1
+C: Remember when you were writing a diary?
+P: Yeah... I burned the damn thing
+
+1.1.1
+C: What you don't know is that I have a diary of my own
+P: Ok... and?
+
+1.1.2
+C: What you don't know is that I read it
+P: That's why I burned it
+
+1.1.3
+C: What you don't know is that I took it out of the fire and kept it
+P: I saw it turn to ashes
+
+1.2
+C: Remember when you got lost in the woods?
+P: I didn't get lost... I knew exactly where I was. I didn't know where everything else was!
+
+1.2.1
+C: You got so scared you wet your pants!
+P: I fell into the river! That's why they were wet!
+
+1.2.2
+C: You couldn't sleep for weeks
+P: That was the poison ivy
+
+1.2.3
+C: We found you talking to a tree
+P: It was making more sense than you are right now
+
+
+1.3
+C: Remember when you tried to steal <xxx>'s cow?
+P: That wasn't my brightest idea
+
+1.3.1
+C: I'll tell <xxx> what you did with the chair
+P: That was the goat's fault... not mine!
+
+1.3.2
+C: I'll tell <xxx> what you did with the glove
+P: It wasn't my fault... and she kept moving...
+
+1.3.3
+C: I'll tell <xxx> what the bull did
+P: Yeah, well... they were clearly in love... so sue me!
+
+
+
+
+[Right answers are 1.3.2]
+(first right guess)
+P: Fine. I am listening
+(second right guess)
+P: Fine. What else?
+(third right guess)
+P: Fine. I'll stay
+
+She has nothing to lose, even if they don't find anything, she has a story to make fun of him/tell friends/...
+She could find riches/fame/....
+
+
+
+
+* Let's start this again
+* If you leave me here I'll tell dad
