@@ -76,6 +76,31 @@ P: It wasn't my fault... and she kept moving...
 C: I'll tell <xxx> what the bull did
 P: Yeah, well... they were clearly in love... so sue me!
 
+2.
+C: You have nothing to lose if you stay
+P: But what do I gain?
+
+2.1
+C: You'd have a good story to tell
+
+2.2
+C: You can stay and make fun of me
+
+2.3
+C: This is a nice place to relax
+P: Relax? Here?
+
+2.3.1
+C: It's very peaceful and quiet
+P: Right... Like our backyard
+
+2.3.2
+C: Look at all these nice birds
+P: That'll just make me hungry
+
+2.3.3
+C: 
+
 
 
 
